@@ -1,0 +1,8 @@
+com\qa\Pages\LoginPage.class
+com\qa\TestUtils\TestUtils.class
+com\qa\Pages\BuzzPage.class
+com\qa\Pages\DirectoryPage.class
+com\qa\Pages\AdminPage.class
+com\qa\Pages\DashBoardPage.class
+com\qa\Pages\MyInfoPage.class
+com\qa\TestBase\TestBase.class

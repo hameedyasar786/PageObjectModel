@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-26T17:14:48 GMT-04:00" name="Surefire suite" finished-at="2020-10-26T17:18:52 GMT-04:00" duration-ms="244072">
+    <groups>
+    </groups>
+    <test started-at="2020-10-26T17:14:48 GMT-04:00" name="Surefire test" finished-at="2020-10-26T17:18:52 GMT-04:00" duration-ms="244072">
+      <class name="com.qa.TestCases.BuzzPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.TestCases.BuzzPageTest@6591f517]" started-at="2020-10-26T17:15:34 GMT-04:00" name="setup" finished-at="2020-10-26T17:15:53 GMT-04:00" duration-ms="18560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateBuzzPage()[pri:1, instance:com.qa.TestCases.BuzzPageTest@6591f517]" started-at="2020-10-26T17:15:53 GMT-04:00" name="validateBuzzPage" finished-at="2020-10-26T17:15:53 GMT-04:00" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBuzzPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.TestCases.BuzzPageTest@6591f517]" started-at="2020-10-26T17:15:53 GMT-04:00" name="tearDown" finished-at="2020-10-26T17:15:55 GMT-04:00" duration-ms="2306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.TestCases.BuzzPageTest@6591f517]" started-at="2020-10-26T17:15:55 GMT-04:00" name="setup" finished-at="2020-10-26T17:16:13 GMT-04:00" duration-ms="17446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="enterTheStatus()[pri:2, instance:com.qa.TestCases.BuzzPageTest@6591f517]" started-at="2020-10-26T17:16:13 GMT-04:00" name="enterTheStatus" finished-at="2020-10-26T17:16:13 GMT-04:00" duration-ms="788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterTheStatus -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.TestCases.BuzzPageTest@6591f517]" started-at="2020-10-26T17:16:13 GMT-04:00" name="tearDown" finished-at="2020-10-26T17:16:15 GMT-04:00" duration-ms="1237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.TestCases.BuzzPageTest -->
+      <class name="com.qa.TestCases.DirectoryPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.TestCases.DirectoryPageTest@429bd883]" started-at="2020-10-26T17:16:55 GMT-04:00" name="setup" finished-at="2020-10-26T17:17:11 GMT-04:00" duration-ms="16821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateDirectoryPageBySearchButton()[pri:1, instance:com.qa.TestCases.DirectoryPageTest@429bd883]" started-at="2020-10-26T17:17:11 GMT-04:00" name="validateDirectoryPageBySearchButton" finished-at="2020-10-26T17:17:12 GMT-04:00" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDirectoryPageBySearchButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.TestCases.DirectoryPageTest@429bd883]" started-at="2020-10-26T17:17:12 GMT-04:00" name="tearDown" finished-at="2020-10-26T17:17:13 GMT-04:00" duration-ms="1449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.TestCases.DirectoryPageTest@429bd883]" started-at="2020-10-26T17:17:13 GMT-04:00" name="setup" finished-at="2020-10-26T17:17:30 GMT-04:00" duration-ms="16343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="enterEmployeeNameToSearch()[pri:2, instance:com.qa.TestCases.DirectoryPageTest@429bd883]" started-at="2020-10-26T17:17:30 GMT-04:00" name="enterEmployeeNameToSearch" finished-at="2020-10-26T17:17:31 GMT-04:00" duration-ms="1843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterEmployeeNameToSearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.TestCases.DirectoryPageTest@429bd883]" started-at="2020-10-26T17:17:31 GMT-04:00" name="tearDown" finished-at="2020-10-26T17:17:33 GMT-04:00" duration-ms="1135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.TestCases.DirectoryPageTest -->
+      <class name="com.qa.TestCases.MyInfoPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.TestCases.MyInfoPageTest@279ad2e3]" started-at="2020-10-26T17:18:15 GMT-04:00" name="setup" finished-at="2020-10-26T17:18:31 GMT-04:00" duration-ms="15673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateInfoPage()[pri:1, instance:com.qa.TestCases.MyInfoPageTest@279ad2e3]" started-at="2020-10-26T17:18:31 GMT-04:00" name="validateInfoPage" finished-at="2020-10-26T17:18:31 GMT-04:00" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInfoPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.TestCases.MyInfoPageTest@279ad2e3]" started-at="2020-10-26T17:18:31 GMT-04:00" name="tearDown" finished-at="2020-10-26T17:18:32 GMT-04:00" duration-ms="1039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.TestCases.MyInfoPageTest@279ad2e3]" started-at="2020-10-26T17:18:32 GMT-04:00" name="setup" finished-at="2020-10-26T17:18:47 GMT-04:00" duration-ms="15090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="enterMyInfoPageDetails()[pri:2, instance:com.qa.TestCases.MyInfoPageTest@279ad2e3]" started-at="2020-10-26T17:18:47 GMT-04:00" name="enterMyInfoPageDetails" finished-at="2020-10-26T17:18:51 GMT-04:00" duration-ms="4342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterMyInfoPageDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.TestCases.MyInfoPageTest@279ad2e3]" started-at="2020-10-26T17:18:51 GMT-04:00" name="tearDown" finished-at="2020-10-26T17:18:52 GMT-04:00" duration-ms="1072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.TestCases.MyInfoPageTest -->
+      <class name="com.qa.TestCases.DashBoardPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.TestCases.DashBoardPageTest@345965f2]" started-at="2020-10-26T17:16:15 GMT-04:00" name="setup" finished-at="2020-10-26T17:16:32 GMT-04:00" duration-ms="17066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateDashBoard()[pri:1, instance:com.qa.TestCases.DashBoardPageTest@345965f2]" started-at="2020-10-26T17:16:32 GMT-04:00" name="validateDashBoard" finished-at="2020-10-26T17:16:32 GMT-04:00" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDashBoard -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.TestCases.DashBoardPageTest@345965f2]" started-at="2020-10-26T17:16:32 GMT-04:00" name="tearDown" finished-at="2020-10-26T17:16:33 GMT-04:00" duration-ms="1124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.TestCases.DashBoardPageTest@345965f2]" started-at="2020-10-26T17:16:33 GMT-04:00" name="setup" finished-at="2020-10-26T17:16:50 GMT-04:00" duration-ms="16963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyMyInfoPage()[pri:2, instance:com.qa.TestCases.DashBoardPageTest@345965f2]" started-at="2020-10-26T17:16:50 GMT-04:00" name="verifyMyInfoPage" finished-at="2020-10-26T17:16:53 GMT-04:00" duration-ms="2591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyInfoPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.TestCases.DashBoardPageTest@345965f2]" started-at="2020-10-26T17:16:53 GMT-04:00" name="tearDown" finished-at="2020-10-26T17:16:55 GMT-04:00" duration-ms="1988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.TestCases.DashBoardPageTest -->
+      <class name="com.qa.TestCases.AdminPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.TestCases.AdminPageTest@5a4aa2f2]" started-at="2020-10-26T17:14:48 GMT-04:00" name="setup" finished-at="2020-10-26T17:15:10 GMT-04:00" duration-ms="21261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateAdminPage()[pri:1, instance:com.qa.TestCases.AdminPageTest@5a4aa2f2]" started-at="2020-10-26T17:15:10 GMT-04:00" name="validateAdminPage" finished-at="2020-10-26T17:15:10 GMT-04:00" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAdminPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.TestCases.AdminPageTest@5a4aa2f2]" started-at="2020-10-26T17:15:10 GMT-04:00" name="tearDown" finished-at="2020-10-26T17:15:11 GMT-04:00" duration-ms="1224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.TestCases.AdminPageTest@5a4aa2f2]" started-at="2020-10-26T17:15:11 GMT-04:00" name="setup" finished-at="2020-10-26T17:15:28 GMT-04:00" duration-ms="16553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="enterSystemUsersDetails()[pri:2, instance:com.qa.TestCases.AdminPageTest@5a4aa2f2]" started-at="2020-10-26T17:15:28 GMT-04:00" name="enterSystemUsersDetails" finished-at="2020-10-26T17:15:33 GMT-04:00" duration-ms="4929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterSystemUsersDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.TestCases.AdminPageTest@5a4aa2f2]" started-at="2020-10-26T17:15:33 GMT-04:00" name="tearDown" finished-at="2020-10-26T17:15:34 GMT-04:00" duration-ms="1571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.TestCases.AdminPageTest -->
+      <class name="com.qa.TestCases.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.TestCases.LoginPageTest@4d49af10]" started-at="2020-10-26T17:17:33 GMT-04:00" name="setup" finished-at="2020-10-26T17:17:42 GMT-04:00" duration-ms="9268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginPageTitleTest()[pri:1, instance:com.qa.TestCases.LoginPageTest@4d49af10]" started-at="2020-10-26T17:17:42 GMT-04:00" name="LoginPageTitleTest" finished-at="2020-10-26T17:17:42 GMT-04:00" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.TestCases.LoginPageTest@4d49af10]" started-at="2020-10-26T17:17:42 GMT-04:00" name="tearDown" finished-at="2020-10-26T17:17:45 GMT-04:00" duration-ms="3229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.TestCases.LoginPageTest@4d49af10]" started-at="2020-10-26T17:17:45 GMT-04:00" name="setup" finished-at="2020-10-26T17:17:54 GMT-04:00" duration-ms="9191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="OrangeHrmLogoTest()[pri:2, instance:com.qa.TestCases.LoginPageTest@4d49af10]" started-at="2020-10-26T17:17:54 GMT-04:00" name="OrangeHrmLogoTest" finished-at="2020-10-26T17:17:55 GMT-04:00" duration-ms="372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrangeHrmLogoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.TestCases.LoginPageTest@4d49af10]" started-at="2020-10-26T17:17:55 GMT-04:00" name="tearDown" finished-at="2020-10-26T17:17:59 GMT-04:00" duration-ms="4248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.TestCases.LoginPageTest@4d49af10]" started-at="2020-10-26T17:17:59 GMT-04:00" name="setup" finished-at="2020-10-26T17:18:09 GMT-04:00" duration-ms="10005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginTest()[pri:3, instance:com.qa.TestCases.LoginPageTest@4d49af10]" started-at="2020-10-26T17:18:09 GMT-04:00" name="LoginTest" finished-at="2020-10-26T17:18:13 GMT-04:00" duration-ms="4059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.TestCases.LoginPageTest@4d49af10]" started-at="2020-10-26T17:18:13 GMT-04:00" name="tearDown" finished-at="2020-10-26T17:18:15 GMT-04:00" duration-ms="1859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.TestCases.LoginPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,6 @@
+com\qa\TestCases\MyInfoPageTest.class
+com\qa\TestCases\BuzzPageTest.class
+com\qa\TestCases\DirectoryPageTest.class
+com\qa\TestCases\LoginPageTest.class
+com\qa\TestCases\AdminPageTest.class
+com\qa\TestCases\DashBoardPageTest.class
